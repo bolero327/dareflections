@@ -19,6 +19,8 @@ no answer to add - didn't give it any thought
 
 How do the diagrams help you visualize the branch structure?
 
+it's obvious
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
