@@ -15,11 +15,17 @@ by comparing the changes which have been made to the file(s)
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+no answer to add - didn't give it any thought
+
 How do the diagrams help you visualize the branch structure?
+
+it's obvious
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?What happens when you initialize a repository? Why do you need to do it?
+
+preclude errors by confirming which version of identical secitons of code should be kept vs. discarded
 
