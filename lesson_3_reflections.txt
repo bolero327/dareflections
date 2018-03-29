@@ -5,3 +5,7 @@ when there are other contributors
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 to pull changes at logical stages of the project which would limit the commits to a manageable quantity and order
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+it's obvious
